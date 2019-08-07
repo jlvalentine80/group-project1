@@ -1,0 +1,23 @@
+.physicans {
+background-image: url("img/transparent-physicians.png");
+margin: auto;
+
+
+ }
+.femaleimg, .male2img {
+float: left;
+width: 200px;
+border-radius: 50%;
+}
+.femaleimg, .male2img {
+clear: left;
+}
+.male1img {
+float: right;
+width: 200px;
+border-radius: 50%;
+}
+
+.maielimg {
+clear: right;
+}

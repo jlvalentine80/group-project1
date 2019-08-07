@@ -1,0 +1,56 @@
+.div1 {
+    text-align: center;
+    color: cadetblue;
+    margin-top: 80px;       /*says leave us a message*/
+    font-size: 35px;
+    text-shadow: 1px 1px black;
+    font-family: sans-serif;
+}
+.div2 {
+    text-align: center;
+    color: orange;
+    font-size: 35px;        /*these are the information boxes*/
+    text-shadow: 2px 2px black;
+    font-family: sans-serif;
+}
+.div3 {
+    color: black;
+    text-shadow: 1px 1px white;
+    margin-bottom: 15px;            /*this says your message*/
+    font-family: sans-serif;
+}
+.div4 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-top: 30px;               /*this says home of the da vinci surgical system*/
+    color: peru;
+    text-shadow: 1px 1px black;
+}
+.div4 a {
+    color: cadetblue;
+    font-size: 30px;                /*this is the da vinci link to youtube*/
+}
+input {
+    background-color: darkgray;
+    font-size: 20px;                /*input boxes*/
+}
+textarea {
+    background-color: lightgray;  /*text area box*/
+}
+.div5 {
+    font-family: sans-serif;
+    color: peru;
+    margin-left: 120px;
+}
+.div5 a {
+    text-decoration: none;
+    font-family: sans-serif;
+    color: cadetblue;               /*these are the facebook, instagram, and twitter links*/
+    text-shadow: 1px 1px black;
+}
+h3 {
+    color: peru;
+    font-family: sans-serif;
+    font-size: 25px;
+}
